@@ -1,0 +1,9 @@
+3. iii. https://www.javatpoint.com/working-of-arp       
+4. iii,iv. https://www.javatpoint.com/icmp-protocol
+5. iii. https://www.tutorialspoint.com/tcp-3-way-handshake-process
+6. i. https://www.geeksforgeeks.org/difference-between-active-and-passive-ftp/#:~:text=In%20active%20FTP%2C%20client%20establishes,security%20to%20the%20FTP%20server.
+ii. https://thecybersecurityman.com/2018/01/05/understanding-and-identifying-logical-ports/
+9. ii. https://www.computernetworkingnotes.com/ccna-study-guide/how-dhcp-works-explained-with-examples.html
+iii. https://www.geeksforgeeks.org/client-server-model/
+iv. https://www.geeksforgeeks.org/dhcp-relay-agent-in-computer-network/
+v. https://www.efficientip.com/glossary/dhcp-lease/#:~:text=A%20DHCP%20lease%20is%20a,a%20limited%20period%20of%20time.
